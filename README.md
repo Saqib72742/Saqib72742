@@ -6,93 +6,40 @@
 ---
 
 ### 🧭 About Me
-<p align="center"><i>Think complex to make simple — I break big problems into small logical steps.</i></p>
+<p align="center">✨ <b>Think complex to make simple</b> — I break big problems into small logical steps and turn ideas into working projects. 🚀</p>
 
 - 🎓 BS in Computer Science  
-- Passionate about Front-End Development, Operating Systems, and AI  
-- Strong logical thinker and problem solver  
-- Approach projects with roadmap: concept → design → build → deploy  
-- Exploring Ubuntu, Windows, Kali Linux  
+- Passionate about *Front-End Development, **Operating Systems, and **AI*  
+- Strong *logical thinker* & *problem solver*  
+- Approach projects with roadmap: *concept → design → build → deploy*  
+- Exploring *Ubuntu, **Windows, **Kali Linux*
 
 ---
 
 ### 💻 Tech Stack & Skill Level
 
-<style>
-.skill-bar {
-  background: #ddd;
-  border-radius: 5px;
-  height: 15px;
-  width: 250px;
-  margin-bottom: 10px;
-  overflow: hidden;
-}
-.skill-fill {
-  height: 15px;
-  border-radius: 5px;
-  animation: fillBar 2s ease forwards;
-}
-@keyframes fillBar {
-  0% { width: 0%; }
-  100% { width: var(--width); }
-}
-.language { margin-bottom: 12px; }
-</style>
-
 #### 🚀 Programming Languages
-<div class="language">HTML</div>
-<div class="skill-bar"><div class="skill-fill" style="--width:95%; background: linear-gradient(90deg,#4caf50,#8bc34a);"></div></div>
 
-<div class="language">CSS</div>
-<div class="skill-bar"><div class="skill-fill" style="--width:75%; background: linear-gradient(90deg,#2196f3,#03a9f4);"></div></div>
-
-<div class="language">JavaScript</div>
-<div class="skill-bar"><div class="skill-fill" style="--width:85%; background: linear-gradient(90deg,#ff9800,#ffc107);"></div></div>
-
-<div class="language">Python</div>
-<div class="skill-bar"><div class="skill-fill" style="--width:75%; background: linear-gradient(90deg,#fdd835,#ffeb3b);"></div></div>
-
-<div class="language">Java</div>
-<div class="skill-bar"><div class="skill-fill" style="--width:85%; background: linear-gradient(90deg,#2196f3,#64b5f6);"></div></div>
-
-<div class="language">C++</div>
-<div class="skill-bar"><div class="skill-fill" style="--width:85%; background: linear-gradient(90deg,#9c27b0,#ba68c8);"></div></div>
-
-<div class="language">C</div>
-<div class="skill-bar"><div class="skill-fill" style="--width:80%; background: linear-gradient(90deg,#ff5722,#ff8a65);"></div></div>
-
-<div class="language">SQL / Oracle</div>
-<div class="skill-bar"><div class="skill-fill" style="--width:85%; background: linear-gradient(90deg,#3f51b5,#5c6bc0);"></div></div>
-
-<div class="language">C#</div>
-<div class="skill-bar"><div class="skill-fill" style="--width:60%; background: linear-gradient(90deg,#009688,#4db6ac);"></div></div>
-
----
+*HTML*        ▓▓▓▓▓▓▓▓▓▓ 95%  
+*CSS*         ▓▓▓▓▓▓▓▓░░ 75%  
+*JavaScript*  ▓▓▓▓▓▓▓▓▓░ 85%  
+*Python*      ▓▓▓▓▓▓▓▓░░ 75%  
+*Java*        ▓▓▓▓▓▓▓▓▓░ 85%  
+*C++*         ▓▓▓▓▓▓▓▓▓░ 85%  
+*C*           ▓▓▓▓▓▓▓▓░░ 80%  
+*SQL / Oracle*▓▓▓▓▓▓▓▓▓░ 85%  
+*C#*          ▓▓▓▓▓▓░░░░ 60%  
 
 #### 🧰 Tools & Platforms
-<div class="language">VS Code</div>
-<div class="skill-bar"><div class="skill-fill" style="--width:95%; background: linear-gradient(90deg,#4caf50,#8bc34a);"></div></div>
 
-<div class="language">Visual Studio</div>
-<div class="skill-bar"><div class="skill-fill" style="--width:70%; background: linear-gradient(90deg,#2196f3,#03a9f4);"></div></div>
-
-<div class="language">PyCharm</div>
-<div class="skill-bar"><div class="skill-fill" style="--width:70%; background: linear-gradient(90deg,#fdd835,#ffeb3b);"></div></div>
-
-<div class="language">Git & GitHub</div>
-<div class="skill-bar"><div class="skill-fill" style="--width:80%; background: linear-gradient(90deg,#ff9800,#ffc107);"></div></div>
-
-<div class="language">Figma</div>
-<div class="skill-bar"><div class="skill-fill" style="--width:80%; background: linear-gradient(90deg,#9c27b0,#ba68c8);"></div></div>
-
-<div class="language">Ubuntu</div>
-<div class="skill-bar"><div class="skill-fill" style="--width:80%; background: linear-gradient(90deg,#3f51b5,#5c6bc0);"></div></div>
-
-<div class="language">Kali Linux</div>
-<div class="skill-bar"><div class="skill-fill" style="--width:75%; background: linear-gradient(90deg,#ff5722,#ff8a65);"></div></div>
-
-<div class="language">Windows</div>
-<div class="skill-bar"><div class="skill-fill" style="--width:95%; background: linear-gradient(90deg,#4caf50,#8bc34a);"></div></div>
+*VS Code*     ▓▓▓▓▓▓▓▓▓▓ 95%  
+*Visual Studio* ▓▓▓▓▓▓▓░░ 70%  
+*PyCharm*     ▓▓▓▓▓▓▓░░░ 70%  
+*Git & GitHub*▓▓▓▓▓▓▓▓░ 80%  
+*Figma*       ▓▓▓▓▓▓▓▓░ 80%  
+*Ubuntu*      ▓▓▓▓▓▓▓▓░ 80%  
+*Kali Linux*  ▓▓▓▓▓▓▓░░ 75%  
+*Windows*     ▓▓▓▓▓▓▓▓▓▓ 95%  
 
 ---
 
@@ -104,15 +51,15 @@
 - 💱 *Currency Converter* — [View Report](#)  
 - 🏠 *Household Task Management System (C# + Oracle)*  
 
-*Highlight Projects:* Currency Converter & Weather App  
+*🏆 Highlight Projects:* Currency Converter & Weather App  
 
 ---
 
 ### 🧠 Learning & Future Goals
-- PostgreSQL & Advanced Python for AI/chatbots  
-- Enhancing Front-End & Back-End for Full-Stack Development  
-- Exploring Networks & Cybersecurity  
-- Aim: Full-Stack Developer + AI Specialist  
+- PostgreSQL & Advanced Python for *AI/chatbots*  
+- Enhancing *Front-End & Back-End* for Full-Stack Development  
+- Exploring *Networks & Cybersecurity*  
+- Aim: *Full-Stack Developer + AI Specialist*  
 
 ---
 
@@ -121,4 +68,4 @@
 
 ---
 
-<h3 align="center" style="color:#4caf50;">✨ Turning complexity into simplicity — one project at a time ✨</h3>
+<h3 align="center">✨ Turning complexity into simplicity — one project at a time ✨</h3>
