@@ -22,28 +22,28 @@
 
 | Language | Skill Level |
 |-----------|-------------|
-| HTML |
-| CSS | ![75%]
-| JavaScript | ![85%]
-| Python | ![75%]
-| Java | 
+| HTML | 95%
+| CSS | 75%
+| JavaScript | 85%
+| Python | 75%
+| Java | 80%
 | C++ | 85%
 | C | 80%
 | SQL / Oracle | 85%
-| C# | !60%
+| C# | 60%
 
 #### 🧰 Tools & Platforms
 
 | Tool / Platform | Skill Level |
 |-----------------|-------------|
-| VS Code | ![95%](https://progress-bar.dev/95/?title=Expert&width=200&color=4caf50) |
-| Visual Studio | ![70%](https://progress-bar.dev/70/?title=Intermediate&width=200&color=2196f3) |
-| PyCharm | ![70%](https://progress-bar.dev/70/?title=Intermediate&width=200&color=fdd835) |
-| Git & GitHub | ![80%](https://progress-bar.dev/80/?title=Proficient&width=200&color=ff9800) |
-| Figma | ![80%](https://progress-bar.dev/80/?title=Proficient&width=200&color=9c27b0) |
-| Ubuntu | ![80%](https://progress-bar.dev/80/?title=Proficient&width=200&color=3f51b5) |
-| Kali Linux | ![75%](https://progress-bar.dev/75/?title=Intermediate&width=200&color=ff5722) |
-| Windows | ![95%](https://progress-bar.dev/95/?title=Expert&width=200&color=4caf50) |
+| VS Code | 95%
+| Visual Studio | 70%
+| PyCharm | 70%
+| Git & GitHub | 80%
+| Figma | 80%
+| Ubuntu | 80%
+| Kali Linux | 75%
+| Windows | 95%
 
 ---
 
@@ -81,8 +81,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Saqib72742&show_icons=true&theme=react" alt="GitHub Stats" />
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saqib72742&theme=react" alt="GitHub Streak" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saqib72742&layout=compact&theme=react" alt="Top Languages" />
 </p>
 
 ---
