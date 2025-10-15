@@ -22,15 +22,15 @@
 
 | Language | Skill Level |
 |-----------|-------------|
-| HTML | ![95%](https://progress-bar.dev/95/?title=Expert&width=200&color=4caf50) |
-| CSS | ![75%](https://progress-bar.dev/75/?title=Proficient&width=200&color=2196f3) |
-| JavaScript | ![85%](https://progress-bar.dev/85/?title=Proficient&width=200&color=ff9800) |
-| Python | ![75%](https://progress-bar.dev/75/?title=Intermediate&width=200&color=fdd835) |
-| Java | ![85%](https://progress-bar.dev/85/?title=Proficient&width=200&color=2196f3) |
-| C++ | ![85%](https://progress-bar.dev/85/?title=Proficient&width=200&color=9c27b0) |
-| C | ![80%](https://progress-bar.dev/80/?title=Intermediate&width=200&color=ff5722) |
+| HTML |
+| CSS | ![75%]
+| JavaScript | ![85%]
+| Python | ![75%]
+| Java | 
+| C++ | ![85%]
+| C | ![80%]
 | SQL / Oracle | ![85%](https://progress-bar.dev/85/?title=Proficient&width=200&color=3f51b5) |
-| C# | ![60%](https://progress-bar.dev/60/?title=Beginner&width=200&color=009688) |
+| C# | ![60%]
 
 #### 🧰 Tools & Platforms
 
