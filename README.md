@@ -9,10 +9,10 @@
 > “Think complex to make simple — I love breaking down big problems into small, logical steps.”
 
 - 🎓 *BS in Computer Science*
-- 💡 Passionate about *Front-End Development, **Operating Systems, and **Artificial Intelligence*
+- 💡 Passionate about *Front-End Development*, *Operating Systems*, and *Artificial Intelligence*
 - 🧠 Strong *logical thinker* and *problem solver*
-- ⚙ Approach projects with a clear *mental roadmap* — from concept → design → build → deploy
-- 🌍 Exploring *Ubuntu, **Windows, and **Kali Linux*
+- ⚙ Approach projects with a clear *mental roadmap* — from *concept → design → build → deploy*
+- 🌍 Exploring *Ubuntu*, *Windows*, and *Kali Linux*
 
 ---
 
@@ -62,14 +62,14 @@
 > Converts currencies globally with real-time exchange data.
 
 #### 🏠 Household Task Management System  
-> Built in *C# + Oracle*, assigns and manages home tasks efficiently with database support.
+> Built in *C#* + *Oracle*, assigns and manages home tasks efficiently with database support.
 
 🏆 *Highlight Projects:* Currency Converter & Weather App  
 
 ---
 
 ### 🧠 Learning & Future Goals
-- 🔹 Deepening knowledge in *PostgreSQL, **Advanced Python, and **Chatbot AI*
+- 🔹 Deepening knowledge in *PostgreSQL*, *Advanced Python*, and *Chatbot AI*
 - 🔹 Enhancing *Front-End* and *Backend* skills toward *Full-Stack Web Development*
 - 🔹 Exploring *Networks* and *Cybersecurity* for safe, scalable system design
 - 🔹 Aiming to become a *Full-Stack Developer + AI Specialist*
@@ -91,4 +91,4 @@
 
 ---
 
-<h3 align="center">✨ “Turning complexity into simplicity — one project at a time.” ✨</h3>
+<h3 align="center">✨ “Turning complexity into simplicity.” ✨</h3>
