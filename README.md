@@ -78,9 +78,11 @@
 
 ### ⚡ GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saqib72742&show_icons=true&theme=react" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Saqib72742&show_icons=true&theme=radical&count_private=true" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saqib72742&theme=react" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saqib72742&layout=compact&theme=radical" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saqib72742&theme=radical&hide_border=false" />
 </p>
 
 ---
