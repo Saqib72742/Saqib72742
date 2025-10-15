@@ -27,10 +27,10 @@
 | JavaScript | ![85%]
 | Python | ![75%]
 | Java | 
-| C++ | ![85%]
-| C | ![80%]
-| SQL / Oracle | ![85%](https://progress-bar.dev/85/?title=Proficient&width=200&color=3f51b5) |
-| C# | ![60%]
+| C++ | 85%
+| C | 80%
+| SQL / Oracle | 85%
+| C# | !60%
 
 #### 🧰 Tools & Platforms
 
