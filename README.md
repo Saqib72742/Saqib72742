@@ -6,95 +6,119 @@
 ---
 
 ### 🧭 About Me
-> “Think complex to make simple — I love breaking down big problems into small, logical steps.”
+“Think complex to make simple — I love breaking down big problems into small, logical steps.”
 
-- 🎓 *BS in Computer Science*
-- 💡 Passionate about *Front-End Development, **Operating Systems, and **Artificial Intelligence*
-- 🧠 Strong *logical thinker* and *problem solver*
-- ⚙ Approach projects with a clear *mental roadmap* — from concept → design → build → deploy
-- 🌍 Exploring *Ubuntu, **Windows, and **Kali Linux*
+- 🎓 BS in Computer Science  
+- Passionate about Front-End Development, Operating Systems, and Artificial Intelligence  
+- Strong logical thinker and problem solver  
+- Approach projects with a clear mental roadmap — concept → design → build → deploy  
+- Exploring Ubuntu, Windows, and Kali Linux  
 
 ---
 
 ### 💻 Tech Stack & Skill Level
 
 #### 🚀 Programming Languages
-
-| Language | Skill Level |
-|-----------|-------------|
-| HTML | ![95%](https://progress-bar.dev/95/?title=Expert&width=200&color=4caf50) |
-| CSS | ![75%](https://progress-bar.dev/75/?title=Proficient&width=200&color=2196f3) |
-| JavaScript | ![85%](https://progress-bar.dev/85/?title=Proficient&width=200&color=ff9800) |
-| Python | ![75%](https://progress-bar.dev/75/?title=Intermediate&width=200&color=fdd835) |
-| Java | ![85%](https://progress-bar.dev/85/?title=Proficient&width=200&color=2196f3) |
-| C++ | ![85%](https://progress-bar.dev/85/?title=Proficient&width=200&color=9c27b0) |
-| C | ![80%](https://progress-bar.dev/80/?title=Intermediate&width=200&color=ff5722) |
-| SQL / Oracle | ![85%](https://progress-bar.dev/85/?title=Proficient&width=200&color=3f51b5) |
-| C# | ![60%](https://progress-bar.dev/60/?title=Beginner&width=200&color=009688) |
+<div>
+HTML <br>
+<div style="background-color:#ddd; width: 200px; height:12px; border-radius:5px;">
+  <div style="width:95%; background-color:#4caf50; height:12px; border-radius:5px;"></div>
+</div>
+CSS <br>
+<div style="background-color:#ddd; width: 200px; height:12px; border-radius:5px;">
+  <div style="width:75%; background-color:#2196f3; height:12px; border-radius:5px;"></div>
+</div>
+JavaScript <br>
+<div style="background-color:#ddd; width: 200px; height:12px; border-radius:5px;">
+  <div style="width:85%; background-color:#ff9800; height:12px; border-radius:5px;"></div>
+</div>
+Python <br>
+<div style="background-color:#ddd; width: 200px; height:12px; border-radius:5px;">
+  <div style="width:75%; background-color:#fdd835; height:12px; border-radius:5px;"></div>
+</div>
+Java <br>
+<div style="background-color:#ddd; width: 200px; height:12px; border-radius:5px;">
+  <div style="width:85%; background-color:#2196f3; height:12px; border-radius:5px;"></div>
+</div>
+C++ <br>
+<div style="background-color:#ddd; width: 200px; height:12px; border-radius:5px;">
+  <div style="width:85%; background-color:#9c27b0; height:12px; border-radius:5px;"></div>
+</div>
+C <br>
+<div style="background-color:#ddd; width: 200px; height:12px; border-radius:5px;">
+  <div style="width:80%; background-color:#ff5722; height:12px; border-radius:5px;"></div>
+</div>
+SQL / Oracle <br>
+<div style="background-color:#ddd; width: 200px; height:12px; border-radius:5px;">
+  <div style="width:85%; background-color:#3f51b5; height:12px; border-radius:5px;"></div>
+</div>
+C# <br>
+<div style="background-color:#ddd; width: 200px; height:12px; border-radius:5px;">
+  <div style="width:60%; background-color:#009688; height:12px; border-radius:5px;"></div>
+</div>
+</div>
 
 #### 🧰 Tools & Platforms
-
-| Tool / Platform | Skill Level |
-|-----------------|-------------|
-| VS Code | ![95%](https://progress-bar.dev/95/?title=Expert&width=200&color=4caf50) |
-| Visual Studio | ![70%](https://progress-bar.dev/70/?title=Intermediate&width=200&color=2196f3) |
-| PyCharm | ![70%](https://progress-bar.dev/70/?title=Intermediate&width=200&color=fdd835) |
-| Git & GitHub | ![80%](https://progress-bar.dev/80/?title=Proficient&width=200&color=ff9800) |
-| Figma | ![80%](https://progress-bar.dev/80/?title=Proficient&width=200&color=9c27b0) |
-| Ubuntu | ![80%](https://progress-bar.dev/80/?title=Proficient&width=200&color=3f51b5) |
-| Kali Linux | ![75%](https://progress-bar.dev/75/?title=Intermediate&width=200&color=ff5722) |
-| Windows | ![95%](https://progress-bar.dev/95/?title=Expert&width=200&color=4caf50) |
+<div>
+VS Code <br>
+<div style="background-color:#ddd; width: 200px; height:12px; border-radius:5px;">
+  <div style="width:95%; background-color:#4caf50; height:12px; border-radius:5px;"></div>
+</div>
+Visual Studio <br>
+<div style="background-color:#ddd; width: 200px; height:12px; border-radius:5px;">
+  <div style="width:70%; background-color:#2196f3; height:12px; border-radius:5px;"></div>
+</div>
+PyCharm <br>
+<div style="background-color:#ddd; width: 200px; height:12px; border-radius:5px;">
+  <div style="width:70%; background-color:#fdd835; height:12px; border-radius:5px;"></div>
+</div>
+Git & GitHub <br>
+<div style="background-color:#ddd; width: 200px; height:12px; border-radius:5px;">
+  <div style="width:80%; background-color:#ff9800; height:12px; border-radius:5px;"></div>
+</div>
+Figma <br>
+<div style="background-color:#ddd; width: 200px; height:12px; border-radius:5px;">
+  <div style="width:80%; background-color:#9c27b0; height:12px; border-radius:5px;"></div>
+</div>
+Ubuntu <br>
+<div style="background-color:#ddd; width: 200px; height:12px; border-radius:5px;">
+  <div style="width:80%; background-color:#3f51b5; height:12px; border-radius:5px;"></div>
+</div>
+Kali Linux <br>
+<div style="background-color:#ddd; width: 200px; height:12px; border-radius:5px;">
+  <div style="width:75%; background-color:#ff5722; height:12px; border-radius:5px;"></div>
+</div>
+Windows <br>
+<div style="background-color:#ddd; width: 200px; height:12px; border-radius:5px;">
+  <div style="width:95%; background-color:#4caf50; height:12px; border-radius:5px;"></div>
+</div>
+</div>
 
 ---
 
 ### 🚀 Featured Projects
 
-#### 🌍 World Clock with Alarm  
-> Real-time clock with alarm features built using JavaScript.
+- 🌍 *World Clock with Alarm* — Real-time clock with alarm features built using JavaScript  
+- 🎬 *Netflix Clone & Spotify Clone* — Responsive front-end UI designs  
+- ☁ *Weather App* — [View Report](#) with real-time API data  
+- 💱 *Currency Converter* — [View Report](#) for accurate real-time conversions  
+- 🏠 *Household Task Management System (C# + Oracle)* — Efficient task management with database
 
-#### 🎬 Netflix Clone & 🎵 Spotify Clone  
-> Responsive front-end UI designs inspired by real platforms.
-
-#### ☁ Weather App  
-> Fetches and displays real-time weather data with accurate live APIs.
-
-#### 💱 Currency Converter  
-> Converts currencies globally with real-time exchange data.
-
-#### 🏠 Household Task Management System  
-> Built in *C# + Oracle*, assigns and manages home tasks efficiently with database support.
-
-🏆 *Highlight Projects:* Currency Converter & Weather App  
+*🏆 Highlight Projects:* Currency Converter & Weather App
 
 ---
 
 ### 🧠 Learning & Future Goals
-- 🔹 Deepening knowledge in *PostgreSQL, **Advanced Python, and **Chatbot AI*
-- 🔹 Enhancing *Front-End* and *Backend* skills toward *Full-Stack Web Development*
-- 🔹 Exploring *Networks* and *Cybersecurity* for safe, scalable system design
-- 🔹 Aiming to become a *Full-Stack Developer + AI Specialist*
-
----
-
-### ⚡ GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saqib72742&show_icons=true&theme=react" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saqib72742&theme=react" alt="GitHub Streak" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saqib72742&layout=compact&theme=react" alt="Top Languages" />
-</p>
+- PostgreSQL & Advanced Python for AI and chatbots  
+- Enhancing Front-End & Back-End skills toward Full-Stack Web Development  
+- Exploring Networks & Cybersecurity  
+- Aim: Full-Stack Developer + AI Specialist  
 
 ---
 
 ### 🌐 Contact Me
-📩 *Email:* [saqibjaved72742@gmail.com](mailto:saqibjaved72742@gmail.com)  
-💬 Always open to collaboration, discussion, and innovative ideas.
+📩 Email: [saqibjaved72742@gmail.com](mailto:saqibjaved72742@gmail.com)
 
 ---
 
-<h3 align="center">✨ “Turning complexity into simplicity — one project at a time.” ✨</h3>
-
-
-
-Initial profile README
+<h3 align="center">✨ Turning complexity into simplicity — one project at a time ✨</h3>
