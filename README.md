@@ -6,89 +6,39 @@
 ---
 
 ### 🧭 About Me
-> “Think complex to make simple — I love breaking down big problems into small, logical steps.”
-
-- 🎓 *BS in Computer Science*  
-- 💡 Passionate about *Front-End Development, **Operating Systems, and **Artificial Intelligence*  
-- 🧠 Strong *logical thinker* and *problem solver*  
-- ⚙ Approach projects with a clear *mental roadmap* — *concept → design → build → deploy*  
-- 🌍 Exploring *Ubuntu, **Windows, and **Kali Linux*
-
----
-
-### 💻 Tech Stack & Skill Level
-
-#### 🚀 Programming Languages
-
-| Language | Skill Level |
-|-----------|-------------|
-| *HTML* | 95%  
-| *CSS* | 75%  
-| *JavaScript* | 85%  
-| *Python* | 75%  
-| *Java* | 80%  
-| *C++* | 85%  
-| *C* | 80%  
-| *SQL / Oracle* | 85%  
-| *C#* | 60%  
-
-#### 🧰 Tools & Platforms
-
-| Tool / Platform | Skill Level |
-|-----------------|-------------|
-| *VS Code* | 95%  
-| *Visual Studio* | 70%  
-| *PyCharm* | 70%  
-| *Git & GitHub* | 80%  
-| *Figma* | 80%  
-| *Ubuntu* | 80%  
-| *Kali Linux* | 75%  
-| *Windows* | 95%  
-
----
-
-### 🚀 Featured Projects
-
-#### 🌍 *World Clock with Alarm*  
-> Real-time clock with alarm features built using JavaScript.
-
-#### 🎬 *Netflix Clone & 🎵 Spotify Clone*  
-> Responsive front-end UI designs inspired by real platforms.
-
-#### ☁ *Weather App*  
-> Fetches and displays *real-time weather data* with accurate live APIs.
-
-#### 💱 *Currency Converter*  
-> Converts currencies globally with *real-time exchange data*.
-
-#### 🏠 *Household Task Management System*  
-> Built in *C#* + *Oracle*, assigns and manages home tasks efficiently with database support.
-
-*🏆 Highlight Projects:* ✨ *Currency Converter & Weather App* ✨  
-
----
-
-### 🧠 Learning & Future Goals
-- 🔹 Deepening knowledge in *PostgreSQL, **Advanced Python, and **Chatbot AI*  
-- 🔹 Enhancing *Front-End* and *Back-End* skills toward *Full-Stack Web Development*  
-- 🔹 Exploring *Networks* and *Cybersecurity* for safe, scalable systems  
-- 🔹 Aiming to become a *Full-Stack Developer + AI Specialist*
-
----
-
-### ⚡ GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saqib72742&show_icons=true&theme=react" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saqib72742&theme=react" alt="GitHub Streak" />
+💡 Think complex → make simple. I break down big problems into logical steps and turn ideas into real working projects.<br>
+Exploring Front-End Development, AI, and multiple Operating Systems like Ubuntu, Kali Linux, and Windows.  
 </p>
 
 ---
 
-### 🌐 Contact Me
-📩 *Email:* [saqibjaved72742@gmail.com](mailto:saqibjaved72742@gmail.com)  
-💬 Always open to collaboration, discussion, and innovative ideas.
+### 🚀 Featured Projects
+<p align="center">
+🌍 <b>World Clock with Alarm</b> — Real-time clock with alarm functionality<br>
+🎬 <b>Netflix Clone & Spotify Clone</b> — Front-End UI design<br>
+☁ <b>Weather App</b> — Fetches and displays real-time weather data<br>
+💱 <b>Currency Converter</b> — Converts currencies globally with real-time exchange data<br>
+🏠 <b>Household Task Management System</b> — C# + Oracle based task manager<br>
+✨ Highlight Projects: Weather App & Currency Converter
+</p>
 
 ---
 
-<h3 align="center">✨ “Turning *complexity* into simplicity.” ✨</h3>
+### 💻 Skills & Tech Stack
+<p align="center">
+<!-- Programming Languages -->
+<img src="https://img.shields.io/badge/HTML-95%25-brightgreen?style=for-the-badge" />
+<img src="https://img.shields.io/badge/CSS-75%25-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/JavaScript-85%25-yellow?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Python-75%25-blueviolet?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Java-80%25-red?style=for-the-badge" />
+<img src="https://img.shields.io/badge/C++-85%25-lightgrey?style=for-the-badge" />
+<img src="https://img.shields.io/badge/C-80%25-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/SQL-85%25-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/C%23-60%25-purple?style=for-the-badge" />
+<br><br>
+<!-- Tools & Platforms -->
+<img src="https://img.shields.io/badge/VS_Code-95%25-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Visual_Studio-70%25-blueviolet?style=for-the-badge" />
+<img src="https://
