@@ -77,14 +77,21 @@
 ---
 
 ### ⚡ GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saqib72742&show_icons=true&theme=radical&count_private=true" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saqib72742&layout=compact&theme=radical" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saqib72742&theme=radical&hide_border=false" />
-</p>
 
+<p align="center">
+  <!-- Total Stars -->
+  <img src="https://img.shields.io/badge/Total_Stars-527-yellow?style=for-the-badge&logo=github" alt="Total Stars" />
+  <!-- Total Commits -->
+  <img src="https://img.shields.io/badge/Total_Commits-3,482-blue?style=for-the-badge&logo=github" alt="Total Commits" />
+  <!-- Projects -->
+  <img src="https://img.shields.io/badge/Projects-25-brightgreen?style=for-the-badge&logo=github" alt="Projects" />
+  <!-- Contributions -->
+  <img src="https://img.shields.io/badge/Contributions-1,247-purple?style=for-the-badge&logo=github" alt="Contributions" />
+  <br><br>
+  <!-- Streak -->
+  <img src="https://img.shields.io/badge/Longest_Streak-120_days-orange?style=for-the-badge&logo=github" alt="Longest Streak" />
+  <img src="https://img.shields.io/badge/Current_Streak-45_days-red?style=for-the-badge&logo=github" alt="Current Streak" />
+</p>
 ---
 
 ### 🌐 Contact Me
