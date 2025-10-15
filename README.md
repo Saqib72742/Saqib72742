@@ -8,11 +8,11 @@
 ### 🧭 About Me
 > “Think complex to make simple — I love breaking down big problems into small, logical steps.”
 
-- 🎓 *BS in Computer Science*
-- 💡 Passionate about *Front-End Development*, *Operating Systems*, and *Artificial Intelligence*
-- 🧠 Strong *logical thinker* and *problem solver*
-- ⚙ Approach projects with a clear *mental roadmap* — from *concept → design → build → deploy*
-- 🌍 Exploring *Ubuntu*, *Windows*, and *Kali Linux*
+- 🎓 *BS in Computer Science*  
+- 💡 Passionate about *Front-End Development, **Operating Systems, and **Artificial Intelligence*  
+- 🧠 Strong *logical thinker* and *problem solver*  
+- ⚙ Approach projects with a clear *mental roadmap* — *concept → design → build → deploy*  
+- 🌍 Exploring *Ubuntu, **Windows, and **Kali Linux*
 
 ---
 
@@ -22,56 +22,56 @@
 
 | Language | Skill Level |
 |-----------|-------------|
-| HTML | 95%
-| CSS | 75%
-| JavaScript | 85%
-| Python | 75%
-| Java | 80%
-| C++ | 85%
-| C | 80%
-| SQL / Oracle | 85%
-| C# | 60%
+| *HTML* | 95%  
+| *CSS* | 75%  
+| *JavaScript* | 85%  
+| *Python* | 75%  
+| *Java* | 80%  
+| *C++* | 85%  
+| *C* | 80%  
+| *SQL / Oracle* | 85%  
+| *C#* | 60%  
 
 #### 🧰 Tools & Platforms
 
 | Tool / Platform | Skill Level |
 |-----------------|-------------|
-| VS Code | 95%
-| Visual Studio | 70%
-| PyCharm | 70%
-| Git & GitHub | 80%
-| Figma | 80%
-| Ubuntu | 80%
-| Kali Linux | 75%
-| Windows | 95%
+| *VS Code* | 95%  
+| *Visual Studio* | 70%  
+| *PyCharm* | 70%  
+| *Git & GitHub* | 80%  
+| *Figma* | 80%  
+| *Ubuntu* | 80%  
+| *Kali Linux* | 75%  
+| *Windows* | 95%  
 
 ---
 
 ### 🚀 Featured Projects
 
-#### 🌍 World Clock with Alarm  
+#### 🌍 *World Clock with Alarm*  
 > Real-time clock with alarm features built using JavaScript.
 
-#### 🎬 Netflix Clone & 🎵 Spotify Clone  
+#### 🎬 *Netflix Clone & 🎵 Spotify Clone*  
 > Responsive front-end UI designs inspired by real platforms.
 
-#### ☁ Weather App  
-> Fetches and displays real-time weather data with accurate live APIs.
+#### ☁ *Weather App*  
+> Fetches and displays *real-time weather data* with accurate live APIs.
 
-#### 💱 Currency Converter  
-> Converts currencies globally with real-time exchange data.
+#### 💱 *Currency Converter*  
+> Converts currencies globally with *real-time exchange data*.
 
-#### 🏠 Household Task Management System  
+#### 🏠 *Household Task Management System*  
 > Built in *C#* + *Oracle*, assigns and manages home tasks efficiently with database support.
 
-🏆 *Highlight Projects:* Currency Converter & Weather App  
+*🏆 Highlight Projects:* ✨ *Currency Converter & Weather App* ✨  
 
 ---
 
 ### 🧠 Learning & Future Goals
-- 🔹 Deepening knowledge in *PostgreSQL*, *Advanced Python*, and *Chatbot AI*
-- 🔹 Enhancing *Front-End* and *Backend* skills toward *Full-Stack Web Development*
-- 🔹 Exploring *Networks* and *Cybersecurity* for safe, scalable system design
+- 🔹 Deepening knowledge in *PostgreSQL, **Advanced Python, and **Chatbot AI*  
+- 🔹 Enhancing *Front-End* and *Back-End* skills toward *Full-Stack Web Development*  
+- 🔹 Exploring *Networks* and *Cybersecurity* for safe, scalable systems  
 - 🔹 Aiming to become a *Full-Stack Developer + AI Specialist*
 
 ---
@@ -91,4 +91,4 @@
 
 ---
 
-<h3 align="center">✨ “Turning complexity into simplicity.” ✨</h3>
+<h3 align="center">✨ “Turning *complexity* into simplicity.” ✨</h3>
