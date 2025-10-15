@@ -8,36 +8,9 @@
 ### ✨ About Me
 <p align="center">
 💡 <b>Think complex → Make simple</b> <br>
-I break complex problems into logical steps, visualize the roadmap, and turn ideas into working projects. 🚀  
-Exploring <b>Front-End Development</b>, <b>AI</b>, and multiple <b>Operating Systems</b>.
+I break down complex problems into logical steps, design roadmaps in my mind, and turn ideas into working projects. 🚀  
+Exploring *Front-End Development, **AI, and multiple **Operating Systems*.  
 </p>
-
----
-
-### 💻 Programming Languages & Skills
-
-*HTML*       🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 95%  
-*CSS*        🟩🟩🟩🟩🟩🟩🟩🟨🟨🟨 75%  
-*JavaScript* 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟨 85%  
-*Python*     🟩🟩🟩🟩🟩🟩🟩🟨🟨🟨 75%  
-*Java*       🟩🟩🟩🟩🟩🟩🟩🟩🟩🟨 85%  
-*C++*        🟩🟩🟩🟩🟩🟩🟩🟩🟩🟨 85%  
-*C*          🟩🟩🟩🟩🟩🟩🟩🟩🟨🟨 80%  
-*SQL/Oracle* 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟨 85%  
-*C#*         🟩🟩🟩🟩🟩🟩🟨🟨🟨🟨 60%  
-
----
-
-### 🧰 Tools & Platforms
-
-*VS Code*        🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 95%  
-*Visual Studio*  🟩🟩🟩🟩🟩🟩🟩🟨🟨🟨 70%  
-*PyCharm*        🟩🟩🟩🟩🟩🟩🟩🟨🟨🟨 70%  
-*Git & GitHub*   🟩🟩🟩🟩🟩🟩🟩🟩🟨🟨 80%  
-*Figma*          🟩🟩🟩🟩🟩🟩🟩🟩🟨🟨 80%  
-*Ubuntu*         🟩🟩🟩🟩🟩🟩🟩🟩🟨🟨 80%  
-*Kali Linux*     🟩🟩🟩🟩🟩🟩🟩🟨🟨🟨 75%  
-*Windows*        🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 95%  
 
 ---
 
@@ -45,18 +18,28 @@ Exploring <b>Front-End Development</b>, <b>AI</b>, and multiple <b>Operating Sys
 
 📌 *World Clock with Alarm* — Real-time clock with alarm  
 📌 *Netflix Clone & Spotify Clone* — Front-End UI design  
-📌 *Weather App* — [View Report](#)  
-📌 *Currency Converter* — [View Report](#)  
+📌 *Weather App* — Real-time API project  
+📌 *Currency Converter* — Real-time conversion project  
 📌 *Household Task Management System (C# + Oracle)* — Efficient home task management  
 
 *🏆 Highlight Projects:* Currency Converter & Weather App  
 
 ---
 
+### 💻 Skills & Tech Stack
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Saqib72742&theme=radical&layout=compact&langs_count=9" alt="Skills"/>
+</p>
+
+This card is similar to GitHub stats, colorful, visually appealing, showing skill percentages in a modern way.
+
+---
+
 ### 🧠 Learning & Future Goals
 
 - PostgreSQL & Advanced Python for *AI/chatbots*  
-- Enhancing *Front-End & Back-End* skills for Full-Stack Web Development  
+- Enhancing *Front-End & Back-End* for Full-Stack Web Development  
 - Exploring *Networks & Cybersecurity*  
 - Aim: *Full-Stack Developer + AI Specialist*  
 
@@ -71,7 +54,5 @@ Exploring <b>Front-End Development</b>, <b>AI</b>, and multiple <b>Operating Sys
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Saqib72742&show_icons=true&theme=radical&count_private=true" />
 </p>
-
----
 
 <h3 align="center">✨ Turning complexity into simplicity — one project at a time ✨</h3>
