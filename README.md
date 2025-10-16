@@ -74,7 +74,7 @@
 - 🔹 Exploring **Networks** and **Cybersecurity** for safe, scalable system design
 - 🔹 Aiming to become a **Full-Stack Developer + AI Specialist**
 
----
+
 
 ### ⚡ GitHub Stats
 
@@ -92,12 +92,12 @@
   <img src="https://img.shields.io/badge/Longest_Streak-120_days-orange?style=for-the-badge&logo=github" alt="Longest Streak" />
   <img src="https://img.shields.io/badge/Current_Streak-45_days-red?style=for-the-badge&logo=github" alt="Current Streak" />
 </p>
----
+
 
 ### 🌐 Contact Me
 📩 Email: [saqibjaved72742@gmail.com](mailto:saqibjaved72742@gmail.com)  
 💬 Always open to collaboration, discussion, and innovative ideas.
 
----
+
 
 <h3 align="center">✨ “Turning complexity into simplicity.” ✨</h3>
