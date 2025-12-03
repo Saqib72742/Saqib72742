@@ -1,7 +1,7 @@
 <!-- 🌟 Muhammad Saqib Javed | GitHub Profile README -->
 
 <h1 align="center">👋 Hey there, I'm Muhammad Saqib Javed</h1>
-<h3 align="center">💻 Web Developer | 🤖 AI Analyst | 🧠 Programmer | 🧩 OS Explorer</h3>
+<h3 align="center">💻 Web Developer | 🤖 AI Explorer | 🧠 Programmer | 🧩 OS Explorer</h3>
 
 ---
 
@@ -9,10 +9,10 @@
 > ***“Think complex to make simple, I love breaking down big problems into small, logical steps.”***
 
 - 🎓 BS in Computer Science
-- 💡 Passionate about **Front-End Development**, **Operating Systems**, and **Artificial Intelligence**
+- 💡 Passionate about **Web-Development**, **Operating Systems**, and **Artificial Intelligence**
 - 🧠 Strong **logical thinker and problem solver**
 - ⚙ Approach projects with a clear mental roadmap — from **concept → design → build → deploy**
-- 🌍 Exploring **Ubuntu**, **Windows**, and **Kali Linux**
+- 🌍 Exploring **Ubuntu**, **Windows**, **Kali Linux** and more
 
 ---
 
@@ -22,12 +22,12 @@
 
 | Language | Skill Level |
 |-----------|-------------|
-| HTML | 95%
-| CSS | 75%
-| JavaScript | 85%
-| Python | 75%
-| Java | 80%
-| C++ | 85%
+| HTML | 90%
+| CSS | 70%
+| JavaScript | 80%
+| Python | 70%
+| Java | 70%
+| C++ | 80%
 | C | 80%
 | SQL / Oracle | 85%
 | C# | 60%
@@ -36,14 +36,14 @@
 
 | Tool / Platform | Skill Level |
 |-----------------|-------------|
-| VS Code | 95%
+| VS Code | 90%
 | Visual Studio | 70%
 | PyCharm | 70%
 | Git & GitHub | 80%
 | Figma | 80%
 | Ubuntu | 80%
 | Kali Linux | 75%
-| Windows | 95%
+| Windows | 90%
 
 ---
 
