@@ -96,9 +96,10 @@
 
 ### 🌐 Contact Me
 📩 Email: [saqibjaved72742@gmail.com](mailto:saqibjaved72742@gmail.com)  
-🪪 Portfolio : [https://saqib72742.github.io/resme-portfolio/]
+🪪 Portfolio : https://saqib72742.github.io/resme-portfolio/
+
 💬 Always open to collaboration, discussion, and innovative ideas.
 
 
 
-<h3 align="center">✨ “Turning complexity into simplicity.” ✨</h3>
+<h3 align="center">✨“Turning complexity into simplicity.”✨</h3>
