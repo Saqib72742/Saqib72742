@@ -1,7 +1,7 @@
 <!-- 🌟 Muhammad Saqib Javed | GitHub Profile README -->
 
 <h1 align="center">👋 Hey there, I'm Muhammad Saqib Javed</h1>
-<h3 align="center">💻 Web Developer | 🤖 AI Explorer | 🧠 Programmer | 🧩 OS Explorer</h3>
+<h3 align="center">💻 Web Developer | 🤖 AI Explorer  |   🧠 Programmer | 🧩 OS Explorer</h3>
 
 ---
 
